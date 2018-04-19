@@ -1,13 +1,5 @@
-## What you will need
+## First create a loop
 
-### Hardware
+Create a loop in the end of the rope with the loose end going over the long end. This isn’t the final loop we’re creating, it’s part of the knot, so keep this around 2 or 3cm in diameter.
 
-+ List hardware here, or delete section.
-
-### Software
-
-+ List software here, or delete section.
-
-### Additional Resources
-
-+ List additional resources, or delete section.
+![loop](images/bowline1.jpg)

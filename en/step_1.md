@@ -1,25 +1,10 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+We went through typing two ropes together with a sheetbend here. In this tutorial, we'll use the same knot tied back on itself to create a secure loop that's easy to untie. 
 
-### What you will make
+In this configuration, it’s known as a bowline, but it’s exactly the same knot as the sheet bend. We do have to tie this knot slightly differently because one end of the rope isn’t accessible, (as it’s not an end at all but a part of the loop).
 
-Add something here to showcase here, for example:
+### Author
+Ben has very strong opinions on knots, and people tend to avoid mentioning anything involving rope or string in his presence so they don’t get lectured in the finer points of cord typing.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+This tutorial first appeared in HackSpace magazine issue 5, which you can download for free from [hsmag.cc](https://hsmag.cc){:target="_blank"}. Follow HackSpace magazine to get your fill of making every month.
