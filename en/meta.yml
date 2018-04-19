@@ -1,0 +1,11 @@
+title: bowline
+hero_image: images/banner.png
+description: bowline description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-04-19"
+steps:
+  - title: Introduction
+  - title: What you will need
+  - title: Step title
