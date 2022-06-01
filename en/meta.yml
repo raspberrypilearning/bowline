@@ -1,12 +1,13 @@
+---
 title: Learn to tie a bowline
 hero_image: images/banner.jpg
 description: A secure loop that's easy to untie
 version: 4
 listed: false
 copyedit: false
-last_tested: "2018-04-19"
+last_tested: '2018-04-19'
 steps:
-  - title: Introduction
-  - title: Start with a loop
-  - title: A second loop
-  - title: Completing the knot
+- title: Introduction
+- title: Start with a loop
+- title: A second loop
+- title: Completing the knot
